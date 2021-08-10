@@ -1,3 +1,4 @@
 displayName = Bad torch luck!
 author = Chik3r
 version = 0.1
+homepage=https://github.com/Chik3r/TerrariaBadTorchLuck

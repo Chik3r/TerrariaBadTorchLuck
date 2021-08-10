@@ -1,1 +1,5 @@
-Bad torch luck! is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Bad torch luck! is a mod that adds back the mechanic that makes torches decrease luck when placed in the wrong biome.
+
+You can see this mod's source code here: https://github.com/Chik3r/TerrariaBadTorchLuck
+
+v0.1: Initial release
